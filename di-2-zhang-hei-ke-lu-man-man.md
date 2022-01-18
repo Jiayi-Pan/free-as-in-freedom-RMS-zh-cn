@@ -36,7 +36,7 @@ GPL的反对者则恰恰相反。他们声称销售软件和购买软件一样�
 
 
 
-![图一 理查德・M・斯托曼，大约摄于2000年。“我决定要开发一套自由的操作系统，哪怕这要花费我一生的时间。”照片来自http://www.stallman.org。](.gitbook/assets/image.png)
+![图一 理查德・M・斯托曼，大约摄于2000年。“我决定要开发一套自由的操作系统，哪怕这要花费我一生的时间。”照片来自http://www.stallman.org。](<.gitbook/assets/image (1).png>)
 
 
 
