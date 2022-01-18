@@ -1,5 +1,5 @@
 ---
-description: 封面
+description: 自由软件之父理查德斯托曼传记
 ---
 
 # 若为自由故 Free As in Freedom
