@@ -8,5 +8,5 @@ description: 自由软件之父理查德斯托曼传记
 
 * 本书基于[译者的自由代码](https://github.com/lifanxi/free-as-in-freedom-zh-cn)制作,采用现代化方式渲染
 * [在线阅读](https://jiayi-pan.gitbook.io/ruo-wei-zi-you-gu-free-as-in-freedom/)
-  * TODO 同时收录该书的 PDF, EPUB, MOBI 格式版本
-* [勘误/查看源码](https://github.com/Jiayi-Pan/free-as-in-freedom-RMS-zh-cn)
+  * 同时收录该书的 [PDF](https://u1lib.org/book/5949568/b61dca), [EPUB](https://u1lib.org/book/18161080/2132da)格式链接
+* [⭐/勘误/查看源码](https://github.com/Jiayi-Pan/free-as-in-freedom-RMS-zh-cn)
